@@ -1,5 +1,5 @@
 # React + Vite
-<h1 className="text-center text-6xl font-bold">Hello<h1>
+<h1 className="text-center text-xl font-bold">Hello<h1>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

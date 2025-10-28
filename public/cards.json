@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Grilled Chicken with Basil Sauce",
+    "recipe_image": "https://i.pinimg.com/736x/ed/a6/f9/eda6f9cf4372ff750e142759c42d150b.jpg",
+    "short_description": "Juicy grilled chicken served with fresh basil sauce.",
+    "ingredients": [
+      "550 g chicken breast",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "2 cloves garlic",
+      "1 tbsp olive oil"
+    ],
+    "preparing_time": 30 ,
+    "calories": 320 
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Mushroom Pasta",
+    "recipe_image": "https://i.pinimg.com/736x/ae/21/f9/ae21f90d2d9471f8d345edfbe03e4ee2.jpg",
+    "short_description": "Creamy pasta tossed with mushrooms and parmesan cheese.",
+    "ingredients": [
+      "400 g mushroom",
+      "250 g pasta",
+      "100 ml cream",
+      "1 tbsp butter",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 25 ,
+    "calories": 280 
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Beef Stir Fry",
+    "recipe_image": "https://i.pinimg.com/1200x/34/f4/8f/34f48f5c56c938642b80b0555e5adf82.jpg",
+    "short_description": "Tender beef strips stir-fried with vegetables and soy sauce.",
+    "ingredients": [
+      "300 g beef",
+      "100 g bell pepper",
+      "100 g onion",
+      "50 ml soy sauce",
+      "2 tbsp sesame oil"
+    ],
+    "preparing_time": 20 ,
+    "calories": 350 
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegetable Fried Rice",
+    "recipe_image": "https://i.pinimg.com/736x/f6/ab/1b/f6ab1b3b6766d60ea5c58c3fb03bddd0.jpg",
+    "short_description": "Delicious fried rice loaded with mixed vegetables.",
+    "ingredients": [
+      "2 cups cooked rice",
+      "100 g carrot",
+      "50 g peas",
+      "2 eggs",
+      "2 tbsp soy sauce"
+    ],
+    "preparing_time": 15 ,
+    "calories": 250
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Classic Pancakes",
+    "recipe_image": "https://i.pinimg.com/736x/90/df/ed/90dfedce66a2e67908ff2da97936a1e7.jpg",
+    "short_description": "Fluffy pancakes served with maple syrup and butter.",
+    "ingredients": [
+      "200 g flour",
+      "250 ml milk",
+      "2 eggs",
+      "2 tbsp sugar",
+      "1 tsp baking powder"
+    ],
+    "preparing_time": 20 ,
+    "calories": 220 
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Caesar Salad",
+    "recipe_image": "https://i.pinimg.com/1200x/41/ca/e0/41cae02db6df0c408299a2017fa0bd41.jpg",
+    "short_description": "Crispy lettuce tossed with Caesar dressing and croutons.",
+    "ingredients": [
+      "200 g lettuce",
+      "50 g parmesan cheese",
+      "30 g croutons",
+      "2 tbsp Caesar dressing",
+      "1 boiled egg"
+    ],
+    "preparing_time": 10 ,
+    "calories": 180 
+  }
+]
